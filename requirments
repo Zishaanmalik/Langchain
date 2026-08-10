@@ -1,0 +1,7 @@
+#APIs
+langchain-huggingface
+transformers
+huggingface-hub
+
+#ENV configuration
+python-dotenv
